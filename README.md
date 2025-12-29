@@ -5,7 +5,7 @@
 ![First Place](https://img.shields.io/badge/1st_Place-700_Teams-gold)
 
 ## 🏆 Hackathon Achievement
-**First Place Winner** out of **700+ participants** at the **Momentum x Monkey & River Hackathon**
+**First Place Winner** out of **700+ participants** at the **Momentum x Monkey & River Hackathon** Read Here for more info (https://monkeyandriver.com/event/hackathon-2025-recap/)
 
 ## 📱 About The App
 
